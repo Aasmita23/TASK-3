@@ -5,9 +5,9 @@
 # Result
 ![Query](https://github.com/Aasmita23/TASK-3/blob/main/screenshots/Screenshot%202025-05-15%20190223.png)
 # Q2. Number of orders placed yearwise
-![Query](https://github.com/Aasmita23/TASK-3/blob/main/screenshots/Screenshot%202025-05-15%20190223.png)
+![Query](https://github.com/Aasmita23/TASK-3/blob/main/screenshots/Screenshot%202025-05-15%20195911.png)
 # Result
-![Query](https://github.com/Aasmita23/TASK-3/blob/main/screenshots/Screenshot%202025-05-15%20190223.png)
+![Query](https://github.com/Aasmita23/TASK-3/blob/main/screenshots/Screenshot%202025-05-15%20195920.png)
 # Q3 Average number of days taken for orders to deliver pet shop
 
 
